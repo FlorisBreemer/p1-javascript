@@ -1,21 +1,14 @@
-const myName = "Floris";
-let myAge = 16; 
-const diploma = true;
-let passed;
+// function color_change_red() {
+//     let title = "title"
+//     document.getElementById(title).style.color = "red"
+// document.getElementById(title).style.fontWeight = "normal"
+// document.getElementById(title).style.fontSize = "3rem"
+// }
 
-document.write(myName)
-document.write(myAge)
-document.write(diploma)
-document.write(passed) 
+// function color_change_black() {
+//     let title = "title"
+//     document.getElementById(title).style.color = "black"
+// document.getElementById(title).style.fontWeight = "normal"
+// document.getElementById(title).style.fontSize = "3rem"
+// }
 
-let num1 = 70;
-let num2 = 69;
-let answer = num1 + num2
-let answer2 = num1 * num2;
-let answer3 = num1 - num2;
-let answer4 = num1 / num2; 
-
-console.log(answer)  
-console.log(answer2)
-console.log(answer3)
-console.log(answer4)
