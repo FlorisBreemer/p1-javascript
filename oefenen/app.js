@@ -12,3 +12,8 @@
 // document.getElementById(title).style.fontSize = "3rem"
 // }
 
+function changeColor(){
+    console.log("de functie werkt")
+}
+
+
